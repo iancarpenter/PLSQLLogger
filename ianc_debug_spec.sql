@@ -3,23 +3,17 @@ IS
 /************************************************************************************************
 Title: ianc_debug
 
-Purpose: assists in debugging
+Purpose: assists in debugging PL/SQL programs
 
-Date:  26/10/2007
+Date:  26/10/2013
 
 Notes: 
 
 Change History
 ============================================================
 Version   Date        By             Details
-0.1       26/10/2007  Ian Carpenter  Initial Version
+0.1       26/10/2013  Ian Carpenter  Initial Version
 *************************************************************************************************/
-   PROCEDURE l 
-   (
-      pc_text   IN VARCHAR2, 
-      pc_number IN NUMBER,
-      pc_date   IN DATE
-   );
                            
    PROCEDURE l 
    (
