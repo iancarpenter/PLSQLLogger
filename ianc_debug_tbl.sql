@@ -8,4 +8,5 @@ CREATE TABLE IANC_DEBUG_TBL
 )
 /
 
-  
+CREATE SEQUENCE ianc_debug_seq
+/  
